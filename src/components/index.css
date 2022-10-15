@@ -1,0 +1,10 @@
+.navbar-search {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: grey;
+  list-style: none;
+  font-family: sans-serif;
+  text-decoration: none;
+}
